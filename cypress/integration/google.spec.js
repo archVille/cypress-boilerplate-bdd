@@ -1,4 +1,4 @@
-const url = 'https://google.com';
+const url = 'https://sand-developerportal-lloydsapi.azurewebsites.net/';
 
 describe('Cypress', () => {
   it('is working', () => {
