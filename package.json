@@ -15,7 +15,7 @@
     "chalk": "^2.4.2",
     "codecov": "^3.7.0",
     "coveralls": "^3.1.0",
-    "cypress": "^4.9.0",
+    "cypress": "^4.11.0",
     "cypress-cucumber-preprocessor": "^1.19.2",
     "cypress-multi-reporters": "^1.4.0",
     "cypress-visual-regression": "^1.4.0",
