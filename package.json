@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.2",
-    "codecov": "^3.7.0",
+    "codecov": "^3.7.2",
     "coveralls": "^3.1.0",
     "cypress": "^4.11.0",
     "cypress-cucumber-preprocessor": "^1.19.2",
@@ -29,7 +29,7 @@
     "mocha-junit-reporters": "^1.23.6",
     "mochawesome": "^4.1.0",
     "mochawesome-report-generator": "^4.1.0",
-    "rxjs": "^6.5.5",
+    "rxjs": "^6.6.0",
     "yargs": "^13.3.2"
   },
   "devDependencies": {
